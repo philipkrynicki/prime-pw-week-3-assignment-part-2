@@ -40,7 +40,7 @@ let stars = ['Polaris', 'Gacrux', 'Formalhaut', 'Rigel', 'Deneb']
 console.log('Some stars:');
 for (let star of stars){
   console.log( 'for of loop', star );
-}
+}  // corrections made on this question
 
 // 3. While loops
 console.log('---- 3. While loop ----');
@@ -52,7 +52,7 @@ const max = 5;
   console.log(stars[index]);
   index++
 }
-
+//  corrections completed
 // 3.b. TODO: Write a while loop to console.log the numbers from 0 to 5
 let i = 0;
 while( i <= max){
